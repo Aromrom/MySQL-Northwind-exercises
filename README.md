@@ -279,7 +279,7 @@ This repository contains a series of **hands-on SQL exercises** I've completed u
 ## 🛠️ Tools Used
 
 - 💻 **MySQL Workbench**
-- 🗃️ **Northwind** & **World** Sample Databases
+- 🗃️ [**Northwind**](https://raw.githubusercontent.com/Aromrom/MySQL-Northwind-exercises/refs/heads/main/create%20sakila%20db.sql/) & [**World**](https://raw.githubusercontent.com/Aromrom/MySQL-Northwind-exercises/refs/heads/main/create%20world%20db.sql/) Sample Databases
 
 ---
 
